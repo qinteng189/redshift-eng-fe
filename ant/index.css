@@ -1,4 +1,9 @@
 
-html, body, #root {
+html, body {
   height: 100%;
+  text-align: center
+}
+#root {
+  width: 70%;
+  margin: 50px;
 }
